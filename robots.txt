@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naomisilas.github.io/The-Lady-s-Closet//sitemap.xml
